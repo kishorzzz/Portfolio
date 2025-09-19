@@ -45,7 +45,7 @@ const About = () => {
       <div className="flex flex-col items-center justify-between gap-18 px-10 pb-16 text-xl font-light tracking-wide lg:flex-row md:text-2xl lg:text-3xl text-white/60">
         <img
           ref={imgRef}
-          src="src/filefolders/photo1.png"
+          src="/photo1.png"
           alt="man"
           className="w-md rounded-2xl"
         />
