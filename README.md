@@ -48,7 +48,10 @@ src/
 - Three.js (3D)
 
 ## 📸 Screenshots
-_Add screenshots of your portfolio here_
+<img width="1710" height="1107" alt="Screenshot 2025-09-20 at 3 29 34 AM" src="https://github.com/user-attachments/assets/4bc49103-12b1-4002-bd69-6c5f38f8531b" />
+<img width="1710" height="1107" alt="Screenshot 2025-09-20 at 3 29 43 AM" src="https://github.com/user-attachments/assets/963debf1-86ea-4d0b-a048-4b3a1e3f3a48" />
+<img width="1710" height="1107" alt="Screenshot 2025-09-20 at 3 29 49 AM" src="https://github.com/user-attachments/assets/db0ce100-b516-45cb-8630-7d23a71b17b9" />
+
 
 ## 📬 Contact
 - [LinkedIn](https://www.linkedin.com/in/kishorguguloth)
